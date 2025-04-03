@@ -18,11 +18,11 @@
 
 ---
 
-## ➤ What i can do
+## ➤ What I Can Do
 
 ---
 
-## ➤ How to reach me
+## ➤ How To Reach Me
 
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/brunopagliarini)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=0af)](https://github.com/brunopagliarini)
