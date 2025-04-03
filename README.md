@@ -7,6 +7,10 @@
 
 ---
 
+## ➤ About Me
+
+---
+
 ## ➤ GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunopagliarini&show_icons=true&theme=slateorange&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
