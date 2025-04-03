@@ -5,4 +5,4 @@
   </picture>
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunopagliarini&count_private=true&show_icons=true&hide_border=true&bg_color=#161b22)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunopagliarini&count_private=true&show_icons=true&bg_color=#161b22)](https://github.com/anuraghazra/github-readme-stats)
