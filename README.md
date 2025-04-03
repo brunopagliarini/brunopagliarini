@@ -5,5 +5,4 @@
   </picture>
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunopagliarini&count_private=true&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunopagliarini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunopagliarini&count_private=true&show_icons=true&theme=slateorange&hide_border)](https://github.com/anuraghazra/github-readme-stats)
