@@ -12,6 +12,8 @@ Hello! I’m a Computer Science student with a deep passion for technology, soft
 
 My journey into tech started with a fascination for how things work under the hood — from low-level systems to high-level applications. Since then, I’ve been exploring various areas of software engineering, constantly learning and refining my skills.
 
+I am currently pursuing my graduation in Computer Science, which has given me a strong foundation in core concepts and hands-on experience with various tools and technologies.
+
 ---
 
 ## ➤ GitHub Stats
