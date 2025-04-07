@@ -33,3 +33,4 @@ I am currently pursuing my graduation in Computer Science, which has given me a 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=0af)](https://github.com/brunopagliarini)
 [![linkedin](https://img.shields.io/badge/Linkedin-0af?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/bruno-pagliarini-305527278/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunopagliarinii/)
+[![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/brunopagliarin)
