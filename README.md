@@ -1,12 +1,3 @@
-<a href="https://github.com/brunopagliarini/brunopagliarini">
-  <picture>
-    <source media=srcset="https://raw.githubusercontent.com/brunopagliarini/brunopagliarini/main/readme.svg">
-        <img alt="Bruno Pagliarini's GitHub Profile README" src="https://raw.githubusercontent.com/brunopagliarini/brunopagliarini/main/readme.svg">
-  </picture>
-</a>
-
----
-
 ## ➤ About Me
 Hello! I’m a Computer Science student with a deep passion for technology, software development, and the ever-evolving world of programming. I’m driven by curiosity and a desire to build efficient, impactful, and scalable solutions to real-world problems.
 
